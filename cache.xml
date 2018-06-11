@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\.android\build-cache\cd8a9f8b42b48deaa86aa9ad984ed0298037924f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="C:\Users\AndroidStudioProjects\TripLogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_abd1e1aaae76640001f7513ffb0cbb4b14fa5dac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AndroidStudioProjects\TripLogger\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\AndroidStudioProjects\TripLogger\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_43af08569cb887212d69cc76d335c7878432c7be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\AndroidStudioProjects\TripLogger\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4bcaaa229d6da26db338d2dbb6546636193f85ff">
+        <dex dex="C:\Users\AndroidStudioProjects\TripLogger\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cd9b727977a37d044706bf12d715785e599b1e4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\.android\build-cache\0a7bb91feff1beaca9a674a31f5950b4eedf5bb6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\AndroidStudioProjects\TripLogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d42bc498a2aa48b4ef28b0a0eac0f8a2de6ce678\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\.android\build-cache\10a1eeab20197a39bfbd0632e232cf12d8ae6e01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\AndroidStudioProjects\TripLogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_407a36e58d32a235989bec8fabf599127f5302b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\.android\build-cache\ddc39624afdd7a218b1575158212a2d10e2fad63\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\AndroidStudioProjects\TripLogger\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bf5ac9d9ea154c7acef2792830b87c33dddee91a\classes.dex" />
+    </item>
+
+</items>
